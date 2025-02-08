@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Softwares and Projects\\Master Projects\\Interview\\IM_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9330D48D-5B53-47D9-9E52-7306155798FF}|IM_API\\IM_API.csproj|d:\\softwares and projects\\master projects\\interview\\im_api\\im_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9330D48D-5B53-47D9-9E52-7306155798FF}|IM_API\\IM_API.csproj|solutionrelative:im_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9330D48D-5B53-47D9-9E52-7306155798FF}|IM_API\\IM_API.csproj|d:\\softwares and projects\\master projects\\interview\\im_api\\im_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9330D48D-5B53-47D9-9E52-7306155798FF}|IM_API\\IM_API.csproj|solutionrelative:im_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Softwares and Projects\\Master Projects\\Interview\\IM_API\\IM_API\\Program.cs",
+              "RelativeDocumentMoniker": "IM_API\\Program.cs",
+              "ToolTip": "D:\\Softwares and Projects\\Master Projects\\Interview\\IM_API\\IM_API\\Program.cs",
+              "RelativeToolTip": "IM_API\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:21:32.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Softwares and Projects\\Master Projects\\Interview\\IM_API\\IM_API\\appsettings.json",
+              "RelativeDocumentMoniker": "IM_API\\appsettings.json",
+              "ToolTip": "D:\\Softwares and Projects\\Master Projects\\Interview\\IM_API\\IM_API\\appsettings.json",
+              "RelativeToolTip": "IM_API\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T12:20:52.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

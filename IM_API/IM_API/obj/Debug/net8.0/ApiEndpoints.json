@@ -1,0 +1,98 @@
+[
+  {
+    "ContainingType": "IM_API.Controllers.AccountController",
+    "Method": "GetCustomerDetails",
+    "RelativePath": "api/Account/GetCustomerDetails/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IM_API.Controllers.AccountController",
+    "Method": "UserLogin",
+    "RelativePath": "api/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "IM_API.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IM_API.Controllers.InvoiceController",
+    "Method": "GetInvoiceDetailsByInvoiceId",
+    "RelativePath": "api/Invoice/GetInvoiceDetailsByInvoiceId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IM_API.Controllers.InvoiceController",
+    "Method": "GetInvoiceList",
+    "RelativePath": "api/Invoice/GetInvoiceList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "invoiceFilter",
+        "Type": "IM_API.Models.InvoiceFilter",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IM_API.Controllers.InvoiceController",
+    "Method": "SaveInvoiceDetails",
+    "RelativePath": "api/Invoice/SaveInvoiceDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "invoice",
+        "Type": "IM_API.Models.Invoice",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IM_API.Controllers.InvoiceController",
+    "Method": "UpdateInvoiceDetails",
+    "RelativePath": "api/Invoice/UpdateInvoiceDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "invoice",
+        "Type": "IM_API.Models.Invoice",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
